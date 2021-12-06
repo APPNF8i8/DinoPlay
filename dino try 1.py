@@ -20,7 +20,7 @@ if __name__ == "__main__":
         ptero = cropped_img.getpixel((193, 50))
         colors_cactus = crop_cactus.getcolors()
 
-        print(" - cactus - ", cactus, " - ptero - ", ptero, ' - rect cactus - ',colors_cactus)
+        print(" - ptero - ", ptero, ' - rect cactus - ',colors_cactus)
 
         if colors_cactus[0][0] <1350:
             pyautogui.keyDown('space')
