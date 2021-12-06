@@ -15,6 +15,7 @@ Click on the action button to launch the game in which the player controls a run
 
 # Code considerations (here to be changed)
 - It uses screenshots, so you have to split screen and activate chromewindows after start to run
+- The obstacles comes ahead randomly, so don't try to memorize them
 - Use of cropped area to identify obstacles
 - As is used the number of pixels with same color, don't need to check background everytime. This reduced number of code lines and the gradient of colors when transitioning between day and night
 - 
