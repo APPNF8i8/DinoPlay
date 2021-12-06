@@ -1,2 +1,2 @@
 # DinoPlay
-COmputer playing Chrome Dino Game by itself
+Computer playing Chrome Dino Game by itself
